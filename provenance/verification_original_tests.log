@@ -1,0 +1,39 @@
+test_design_keeps_known_failures_and_new_locations (test_continuation.ContinuationTests.test_design_keeps_known_failures_and_new_locations) ... ok
+test_disconnected_feasible_set_recovers_both_known_endpoints (test_continuation.ContinuationTests.test_disconnected_feasible_set_recovers_both_known_endpoints) ... ok
+test_heterogeneous_bound_against_exact_poisson_binomial_probabilities (test_continuation.ContinuationTests.test_heterogeneous_bound_against_exact_poisson_binomial_probabilities) ... ok
+test_new_seed_namespaces_are_disjoint (test_continuation.ContinuationTests.test_new_seed_namespaces_are_disjoint) ... ok
+test_tolerance_order_statistic_has_prespecified_confidence (test_continuation.ContinuationTests.test_tolerance_order_statistic_has_prespecified_confidence) ... ok
+test_aggregate_price_against_closed_form (test_economy.Verification.test_aggregate_price_against_closed_form) ... ok
+test_cash_stock_and_funding_ledgers (test_economy.Verification.test_cash_stock_and_funding_ledgers) ... ok
+test_individual_choices_against_independent_utility_optimization (test_economy.Verification.test_individual_choices_against_independent_utility_optimization) ... ok
+test_infeasible_floor_not_repaired (test_economy.Verification.test_infeasible_floor_not_repaired) ... ok
+test_observations_cutoff_linkage_and_truth_separation (test_economy.Verification.test_observations_cutoff_linkage_and_truth_separation) ... ok
+test_population_supports_and_negative_dependence (test_economy.Verification.test_population_supports_and_negative_dependence) ... ok
+test_quadratic_appendix_benchmark (test_economy.Verification.test_quadratic_appendix_benchmark) ... ok
+test_release_files_do_not_disclose_generating_regime (test_economy.Verification.test_release_files_do_not_disclose_generating_regime) ... ok
+test_risk_task (test_economy.Verification.test_risk_task) ... ok
+test_roots_multiple_and_zero_interval (test_economy.Verification.test_roots_multiple_and_zero_interval) ... ok
+test_scale_invariance (test_economy.Verification.test_scale_invariance) ... ok
+test_zero_transfer_pairing_and_reproducibility (test_economy.Verification.test_zero_transfer_pairing_and_reproducibility) ... ok
+test_complete_seed_sets_disjoint (test_expanded.ExpandedTests.test_complete_seed_sets_disjoint) ... ok
+test_continuous_search_matches_known_ellipsoid_endpoints (test_expanded.ExpandedTests.test_continuous_search_matches_known_ellipsoid_endpoints) ... ok
+test_parameter_roundtrip_and_response_participation_separation (test_expanded.ExpandedTests.test_parameter_roundtrip_and_response_participation_separation) ... ok
+test_polynomial_gradient_at_interior_and_zero (test_expanded.ExpandedTests.test_polynomial_gradient_at_interior_and_zero) ... ok
+test_rank_quantiles_include_finite_sample_correction (test_expanded.ExpandedTests.test_rank_quantiles_include_finite_sample_correction) ... ok
+test_covariance_uses_within_candidate_noise (test_inference.InferenceTests.test_covariance_uses_within_candidate_noise) ... ok
+test_exact_rank_rejection_and_ties (test_inference.InferenceTests.test_exact_rank_rejection_and_ties) ... ok
+test_kernel_and_release_links (test_inference.InferenceTests.test_kernel_and_release_links) ... ok
+test_seed_banks_disjoint (test_inference.InferenceTests.test_seed_banks_disjoint) ... ok
+test_disconnected_feasible_regions_and_monotone_expansion (test_refinement.RefinementTests.test_disconnected_feasible_regions_and_monotone_expansion) ... ok
+test_ellipsoid_endpoints_and_nested_budgets (test_repair.RepairTests.test_ellipsoid_endpoints_and_nested_budgets) ... ok
+test_quantile_regression_recovers_heteroscedastic_score_scale (test_repair.RepairTests.test_quantile_regression_recovers_heteroscedastic_score_scale) ... ok
+test_quartic_basis_and_analytic_derivatives (test_repair.RepairTests.test_quartic_basis_and_analytic_derivatives) ... ok
+test_response_regression_cannot_use_selection (test_repair.RepairTests.test_response_regression_cannot_use_selection) ... ok
+test_seed_namespaces_and_unseen_settings (test_repair.RepairTests.test_seed_namespaces_and_unseen_settings) ... ok
+test_validation_requires_freeze (test_repair.RepairTests.test_validation_requires_freeze) ... ok
+test_variable_cutoff_gradient (test_repair.RepairTests.test_variable_cutoff_gradient) ... ok
+
+----------------------------------------------------------------------
+Ran 34 tests in 4.132s
+
+OK

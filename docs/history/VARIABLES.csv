@@ -1,0 +1,28 @@
+variable,units,timing,analyst_visibility,definition
+cash0,cash,initial,aggregate only,Initial individual cash normalized to total 100
+holdings0,Bitcoin,initial,hidden,Initial holdings normalized to total 100 with 25 percent zero positions
+floor,cash,constant,O6 and O7 resources,Minimum cash balance for commitments
+gamma,dimensionless,constant,hidden,CRRA risk coefficient between 0.5 and 6
+belief_intercept,log odds,constant,hidden,Logit of initial subjective high-state probability
+allowance0,Bitcoin,initial,hidden,Initial mandate allowance above initial holdings
+unrestricted,boolean,constant,O6 and O7 permissions,Investor has no position ceiling
+target,boolean,constant,all panels by permitted module,Member of randomly assigned transfer group
+signal,log odds,monthly through 18,all panels,Observed common AR1 signal entering beliefs
+prices,cash per Bitcoin,monthly through 18,all panels,Selected market clearing price
+holdings,Bitcoin,after trade at 6 12 18,all panels,Final investor position
+belief,probability,at 6 12 18,O2 O6 and O7 beliefs,Subjective probability of the high resale value
+cash,cash,after trade at 6 12 18,O6 and O7 resources,Nominal cash after ordinary funding and trades
+commitment,cash,at 6 12 18,O6 and O7 resources,Report of the fixed cash floor
+cap,Bitcoin,at 6 12 18,O6 and O7 permissions,Ceiling with infinity encoding no restriction
+risk_ce,normalized wealth,at 6 12 18,O6 and O7 risk,Certainty equivalent for equal chances of 0.5 and 1.5 wealth units
+months,month,6 12 18,all panels,Dates of survey observations
+panel,label,constant,all panels,Observation design and associated linkage rules
+transfer,cash,once before month 19,evaluation only,Five percent of aggregate cash after month 18
+response_percent,percent,month 19,evaluation only,100 times treatment price divided by control price minus one
+response_six_percent,percent,month 24,evaluation only,Sixth month paired price response
+cash_binding,fraction,each clearing,evaluation only,Active cash bound with positive marginal value of additional holdings
+cap_binding,fraction,each clearing,evaluation only,Active mandate ceiling with positive marginal value of additional holdings
+joint_binding,fraction,each clearing,evaluation only,Both cash and mandate restrictions active with positive marginal value
+cash_ledger_residual,cash,each clearing,evaluation only,Cash after less cash before less ordinary and experimental inflows
+clearing_residual,Bitcoin,each clearing,evaluation only,Sum of desired final holdings less represented stock
+seed,integer,per market,evaluation only,Reproduction seed never an inference feature

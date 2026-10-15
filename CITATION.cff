@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the working paper when using these replication materials."
+type: software
+title: "Replication materials: Investor information and uncertainty about Bitcoin price responses"
+authors:
+  - family-names: Rudd
+    given-names: Murray A.
+version: 1.0.0
+abstract: "Code and synthetic records for a Monte Carlo comparison of investor information designs and uncertainty about model-implied Bitcoin price responses."
+keywords:
+  - Bitcoin
+  - investor information
+  - Monte Carlo
+  - simulation
+  - record linkage
+preferred-citation:
+  type: unpublished
+  title: "Investor information and uncertainty about Bitcoin price responses"
+  authors:
+    - family-names: Rudd
+      given-names: Murray A.
+  year: 2026
+  version: "2"
+  notes: "Working paper, October 15, 2026."

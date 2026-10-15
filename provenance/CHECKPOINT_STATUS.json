@@ -1,0 +1,62 @@
+{
+  "created_utc": "2026-10-13T18:31:31.910960+00:00",
+  "status": "completed",
+  "raw_releases_omitted": true,
+  "progress": {
+    "progress_fit": {
+      "stage": "fit",
+      "status": "running",
+      "pending_jobs": 32768,
+      "completed_this_session": 32768,
+      "markets_this_session": 0,
+      "elapsed_seconds": 9576.201428496002,
+      "updated_utc": "2026-10-13T18:13:17.176619+00:00",
+      "last": {
+        "kind": "fit",
+        "bank": 1,
+        "panel": "O7",
+        "case_id": 255,
+        "first": 60,
+        "primary_fits": 4,
+        "rows": 4,
+        "seconds": 1.2468127729953267
+      }
+    },
+    "progress_audit": {
+      "stage": "audit",
+      "status": "running",
+      "pending_jobs": 144,
+      "completed_this_session": 144,
+      "markets_this_session": 18432,
+      "elapsed_seconds": 367.9700138079934,
+      "updated_utc": "2026-10-13T18:19:25.447561+00:00",
+      "last": {
+        "kind": "simulation",
+        "role": "audit",
+        "case_id": 225,
+        "markets": 128,
+        "path": "/workspace/scratch/c87c89561525/mc_work/bitcoin-expanded-pilot-v0.5.0/results/confirmation_v06/audit/endpoint_143.npz",
+        "seconds": 18.805389087996446
+      }
+    },
+    "progress_generate": {
+      "stage": "generate",
+      "status": "running",
+      "pending_jobs": 2504,
+      "completed_this_session": 2504,
+      "markets_this_session": 227328,
+      "elapsed_seconds": 4403.552780106998,
+      "updated_utc": "2026-10-13T15:33:40.529295+00:00",
+      "last": {
+        "kind": "simulation",
+        "role": "reference",
+        "case_id": 255,
+        "markets": 128,
+        "path": "/workspace/scratch/c87c89561525/mc_work/bitcoin-expanded-pilot-v0.5.0/results/confirmation_v06/reference/case_255_0640.npz",
+        "seconds": 21.812408084995695
+      }
+    }
+  },
+  "original_tests_passed": 34,
+  "archived_replay": "exact response, features, and fit equality"
+}

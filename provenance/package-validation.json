@@ -1,0 +1,136 @@
+{
+  "package_version": "1.0.0",
+  "prepared_utc": "2026-10-15T19:24:36.609856+00:00",
+  "scientific_source_changed": false,
+  "engine_files_checked": 49,
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "scikit_learn": "1.8.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8"
+  },
+  "checks": {
+    "archive_sizes_and_sha256": "passed for both attachments",
+    "source_freezes": "passed for the main experiment and final calibration",
+    "original_tests": {
+      "run": 34,
+      "failures": 0,
+      "errors": 0
+    },
+    "archived_replay": {
+      "markets": 4,
+      "features": [
+        "O1",
+        "O2",
+        "O6",
+        "O7"
+      ],
+      "fitted_intervals": 4,
+      "bank": 0,
+      "panel": "O2",
+      "comparison": "exact equality",
+      "status": "passed"
+    },
+    "quick": {
+      "status": "passed",
+      "summary_csv_files": 7,
+      "summary_rows": 9116,
+      "interval_rows": 131072,
+      "numeric_rtol": 1e-10,
+      "numeric_atol": 1e-12,
+      "integrity_compared_except_timestamp": true
+    },
+    "verify": "passed; original tests and replays plus preliminary and main summaries regenerated",
+    "refit": {
+      "status": "passed",
+      "pre_adjustment_models": 8,
+      "final_calibrated_models": 8,
+      "numeric_rtol": 1e-08,
+      "numeric_atol": 1e-10,
+      "new_training_draws_generated": false,
+      "new_calibration_draws_generated": false
+    },
+    "figures": {
+      "status": "generated and visually inspected",
+      "count": 2,
+      "formats": [
+        "png",
+        "pdf",
+        "svg"
+      ],
+      "source": "main summary tables and declared design"
+    },
+    "full": {
+      "executed_during_packaging": false,
+      "starting_workspace_checked": true,
+      "initial_models": 8,
+      "specification_and_freeze_files": 2,
+      "saved_outcomes_or_completion_markers_present_at_start": false,
+      "frozen_inputs_verified": true
+    },
+    "fetch": {
+      "public_download_executed": false,
+      "reason": "Repository and Release not published during preparation"
+    },
+    "release_layout": {
+      "status": "passed",
+      "repository_files": 86,
+      "all_files_below_browser_limit": true,
+      "python_source_syntax": "passed",
+      "documentation_links": "passed",
+      "credential_pattern_scan": "no matches in packaged text files"
+    }
+  },
+  "repository_file_count_including_this_record": 86,
+  "largest_repository_file_bytes": 458753,
+  "retained_release_assets": [
+    {
+      "name": "monte-carlo-results-v0.6.0.zip",
+      "role": "main",
+      "sha256": "3ef82eaf091b2497b1aa7c21d01575c939d26112923cdbae397fd497df0e3a97",
+      "size_bytes": 100600835,
+      "members": 36012,
+      "uncompressed_bytes": 231104297,
+      "original_archive": "Bitcoin_MC_v0.6.0_recovery.zip",
+      "original_archive_sha256": "8d4c411acc223d0baec57d2bf796a6097ec1e028bde21a852b87b1eba5318596",
+      "excluded_noncomputational_files": [
+        "results/confirmation_v06/paper/Bitcoin_MC_v0.6.0_status_and_results.txt",
+        "results/confirmation_v06/paper/Bitcoin_Synthetic_Evidence_Methods_Results_v0.6.0.docx",
+        "results/confirmation_v06/reporting_sources/README.txt",
+        "results/confirmation_v06/reporting_sources/build_mc_manuscript.py",
+        "results/confirmation_v06/reporting_sources/full_methods_content.json",
+        "results/confirmation_v06/reporting_sources/mc_full_methods_content.json",
+        "results/confirmation_v06/reporting_sources/mc_main_interpretation.json",
+        "results/confirmation_v06/reporting_sources/prepare_mc_manuscript.py",
+        "results/confirmation_v06/reporting_sources/verify_mc_outputs.py",
+        "results/confirmation_v06/summary/document_verification.json"
+      ]
+    },
+    {
+      "name": "calibration-and-development-v0.5.0.zip",
+      "role": "calibration",
+      "sha256": "d48441ec4ed306b73adc2f10b060705d84ea4f74447bf2da7da4ca9273b7bea1",
+      "size_bytes": 352692768,
+      "members": 26540,
+      "uncompressed_bytes": 454992327,
+      "original_archive": "bitcoin-expanded-pilot-v0.5.0.zip",
+      "original_archive_sha256": "3ccbcf2f4dbf5ec3f2a80a96df2fd58fa5743784ecd0b95790903c4292ac35f3",
+      "excluded_noncomputational_files": [
+        "results/continuation_v05/summary/report_content.json",
+        "results/expanded_pilot/summary/coverage_by_case.png",
+        "results/expanded_pilot/summary/coverage_by_case.svg",
+        "results/expanded_pilot/summary/interval_widths.png",
+        "results/expanded_pilot/summary/interval_widths.svg",
+        "results/repaired_pilot/summary/linked_interval_widths.png",
+        "results/repaired_pilot/summary/linked_interval_widths.svg",
+        "results/repaired_pilot/summary/parameter_retention.png",
+        "results/repaired_pilot/summary/parameter_retention.svg",
+        "results/repaired_pilot/summary/report_content.json"
+      ]
+    }
+  ],
+  "scope": "Packaging checks and selected exact replays. No new full Monte Carlo, no new independent training banks, no empirical validation."
+}

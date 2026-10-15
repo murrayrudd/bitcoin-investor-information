@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="594.72pt" height="480.096pt" viewBox="0 0 594.72 480.096" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T15:17:24.743563</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 480.096 
+L 594.72 480.096 
+L 594.72 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.57 104.7744 
+L 182.97 104.7744 
+Q 186.318 104.7744 186.318 101.448 
+L 186.318 26.604 
+Q 186.318 23.2776 182.97 23.2776 
+L 15.57 23.2776 
+Q 12.222 23.2776 12.222 26.604 
+L 12.222 101.448 
+Q 12.222 104.7744 15.57 104.7744 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 213.66 104.7744 
+L 375.48 104.7744 
+Q 378.828 104.7744 378.828 101.448 
+L 378.828 26.604 
+Q 378.828 23.2776 375.48 23.2776 
+L 213.66 23.2776 
+Q 210.312 23.2776 210.312 26.604 
+L 210.312 101.448 
+Q 210.312 104.7744 213.66 104.7744 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 406.17 104.7744 
+L 573.57 104.7744 
+Q 576.918 104.7744 576.918 101.448 
+L 576.918 26.604 
+Q 576.918 23.2776 573.57 23.2776 
+L 406.17 23.2776 
+Q 402.822 23.2776 402.822 26.604 
+L 402.822 101.448 
+Q 402.822 104.7744 406.17 104.7744 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 189.98982 64.3032 
+Q 197.756456 64.3032 204.516861 64.3032 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 199.716861 61.9032 
+L 204.516861 64.3032 
+L 199.716861 66.7032 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 383.056321 64.3032 
+Q 390.543275 64.3032 397.023999 64.3032 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 392.223999 61.9032 
+L 397.023999 64.3032 
+L 392.223999 66.7032 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 15.57 207.3384 
+L 573.57 207.3384 
+Q 576.918 207.3384 576.918 204.012 
+L 576.918 140.256 
+Q 576.918 136.9296 573.57 136.9296 
+L 15.57 136.9296 
+Q 12.222 136.9296 12.222 140.256 
+L 12.222 204.012 
+Q 12.222 207.3384 15.57 207.3384 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 489.87 108.439991 
+Q 489.87 120.852772 489.87 132.259323 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 492.27 127.459323 
+L 489.87 132.259323 
+L 487.47 127.459323 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 15.57 329.3064 
+L 277.83 329.3064 
+Q 281.178 329.3064 281.178 325.98 
+L 281.178 240.048 
+Q 281.178 236.7216 277.83 236.7216 
+L 15.57 236.7216 
+Q 12.222 236.7216 12.222 240.048 
+L 12.222 325.98 
+Q 12.222 329.3064 15.57 329.3064 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 311.31 329.3064 
+L 573.57 329.3064 
+Q 576.918 329.3064 576.918 325.98 
+L 576.918 240.048 
+Q 576.918 236.7216 573.57 236.7216 
+L 311.31 236.7216 
+Q 307.962 236.7216 307.962 240.048 
+L 307.962 325.98 
+Q 307.962 329.3064 311.31 329.3064 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 146.7 211.002299 
+Q 146.7 222.030459 146.7 232.052389 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 149.1 227.252389 
+L 146.7 232.052389 
+L 144.3 227.252389 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 442.44 211.002299 
+Q 442.44 222.030459 442.44 232.052389 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 444.84 227.252389 
+L 442.44 232.052389 
+L 440.04 227.252389 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 15.57 451.2744 
+L 375.48 451.2744 
+Q 378.828 451.2744 378.828 447.948 
+L 378.828 362.016 
+Q 378.828 358.6896 375.48 358.6896 
+L 15.57 358.6896 
+Q 12.222 358.6896 12.222 362.016 
+L 12.222 447.948 
+Q 12.222 451.2744 15.57 451.2744 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 406.17 451.2744 
+L 573.57 451.2744 
+Q 576.918 451.2744 576.918 447.948 
+L 576.918 362.016 
+Q 576.918 358.6896 573.57 358.6896 
+L 406.17 358.6896 
+Q 402.822 358.6896 402.822 362.016 
+L 402.822 447.948 
+Q 402.822 451.2744 406.17 451.2744 
+z
+" clip-path="url(#pafe56eccd3)" style="fill: #f4f4f4; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 146.7 332.970299 
+Q 146.7 343.998459 146.7 354.020389 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 149.1 349.220389 
+L 146.7 354.020389 
+L 144.3 349.220389 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 294.57 345.718589 
+Q 294.57 350.371742 294.57 354.018665 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 296.97 349.218665 
+L 294.57 354.018665 
+L 292.17 349.218665 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 382.500569 405.2592 
+Q 390.82499 405.2592 398.14318 405.2592 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 393.34318 402.8592 
+L 398.14318 405.2592 
+L 393.34318 407.6592 
+z
+" clip-path="url(#pafe56eccd3)" style="stroke: #000000; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 442.44 330.9696 
+L 442.44 343.7208 
+L 294.57 343.7208 
+" clip-path="url(#pafe56eccd3)" style="fill: none; stroke: #000000; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="99.27" y="43.801716" transform="rotate(-0 99.27 43.801716)">Train two procedures</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(40.493828 61.337072)">Independent training banks</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(22.465195 72.146947)">Observation and response functions</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(29.280469 82.956822)">Cutoffs and response allowances</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="294.57" y="43.801716" transform="rotate(-0 294.57 43.801716)">Calibrate and validate</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(224.671445 61.337072)">12 calibration locations per bank</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(241.188672 72.146947)">512 markets per location</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(223.030547 82.956822)">36 preliminary validation settings</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="489.87" y="43.801716" transform="rotate(-0 489.87 43.801716)">Freeze the procedures</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(420.465508 61.337072)">Economic model and summaries</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(416.822461 72.146947)">Functions, cutoffs, and allowances</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(429.932383 82.956822)">Domain and search budgets</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="294.57" y="157.453716" transform="rotate(-0 294.57 157.453716)">Draw 256 parameter settings for the main experiment</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(106.425156 174.989072)">192 primary settings: 144 mixed + 16 belief drift + 16 funding drift + 16 allowance drift</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(111.367773 185.798947)">32 near-face settings and 32 near-corner settings; stress samples reported separately</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="146.7" y="257.245716" transform="rotate(-0 146.7 257.245716)">Construct response intervals</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(74.447344 274.781072)">64 evaluation markets per setting</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(53.688086 285.590947)">4 information designs × 2 fitted procedures</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(69.770352 296.400822)">131,072 intervals across all settings</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(63.724727 307.210697)">98,304 intervals in the primary sample</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="442.44" y="257.245716" transform="rotate(-0 442.44 257.245716)">Estimate independent reference means</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(341.705039 274.781072)">1,024 reference markets per parameter setting</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(330.259258 285.590947)">Paired transfer and control paths within each market</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(333.6825 296.400822)">Mean month-19 response and its Monte Carlo error</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(327.26832 307.210697)">Reference draws are independent of evaluation draws</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="195.525" y="379.213716" transform="rotate(-0 195.525 379.213716)">Compare performance and information gains</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(84.338359 396.749072)">Coverage, empty intervals, and mean interval width</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(64.771758 407.558947)">Paired information contrasts on the same evaluation releases</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(70.276172 418.368822)">2,000 stratified bootstrap resamples of parameter settings</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(84.048828 429.178697)">Uncertainty conditional on the two fitted procedures</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'DejaVu Sans'; text-anchor: middle" x="489.87" y="379.213716" transform="rotate(-0 489.87 379.213716)">Audit fitted endpoints</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(428.170625 396.749072)">Expanded endpoint searches</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(419.403672 407.558947)">144 selected response endpoints</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(422.485586 418.368822)">128 fresh markets per endpoint</text>
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'" transform="translate(420.869258 429.178697)">No recalibration after evaluation</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="15.57" y="469.5696" transform="rotate(-0 15.57 469.5696)">Main-run total: 296,960 simulated markets, including 18,432 endpoint-audit markets.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pafe56eccd3">
+   <rect x="7.2" y="7.2" width="580.32" height="465.696"/>
+  </clipPath>
+ </defs>
+</svg>

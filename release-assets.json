@@ -1,0 +1,52 @@
+{
+  "package_version": "1.0.0",
+  "experiment_version": "0.6.0",
+  "calibration_version": "0.5.0",
+  "release_tag": "v1.0.0",
+  "assets": [
+    {
+      "name": "monte-carlo-results-v0.6.0.zip",
+      "role": "main",
+      "sha256": "3ef82eaf091b2497b1aa7c21d01575c939d26112923cdbae397fd497df0e3a97",
+      "size_bytes": 100600835,
+      "members": 36012,
+      "uncompressed_bytes": 231104297,
+      "original_archive": "Bitcoin_MC_v0.6.0_recovery.zip",
+      "original_archive_sha256": "8d4c411acc223d0baec57d2bf796a6097ec1e028bde21a852b87b1eba5318596",
+      "excluded_noncomputational_files": [
+        "results/confirmation_v06/paper/Bitcoin_MC_v0.6.0_status_and_results.txt",
+        "results/confirmation_v06/paper/Bitcoin_Synthetic_Evidence_Methods_Results_v0.6.0.docx",
+        "results/confirmation_v06/reporting_sources/README.txt",
+        "results/confirmation_v06/reporting_sources/build_mc_manuscript.py",
+        "results/confirmation_v06/reporting_sources/full_methods_content.json",
+        "results/confirmation_v06/reporting_sources/mc_full_methods_content.json",
+        "results/confirmation_v06/reporting_sources/mc_main_interpretation.json",
+        "results/confirmation_v06/reporting_sources/prepare_mc_manuscript.py",
+        "results/confirmation_v06/reporting_sources/verify_mc_outputs.py",
+        "results/confirmation_v06/summary/document_verification.json"
+      ]
+    },
+    {
+      "name": "calibration-and-development-v0.5.0.zip",
+      "role": "calibration",
+      "sha256": "d48441ec4ed306b73adc2f10b060705d84ea4f74447bf2da7da4ca9273b7bea1",
+      "size_bytes": 352692768,
+      "members": 26540,
+      "uncompressed_bytes": 454992327,
+      "original_archive": "bitcoin-expanded-pilot-v0.5.0.zip",
+      "original_archive_sha256": "3ccbcf2f4dbf5ec3f2a80a96df2fd58fa5743784ecd0b95790903c4292ac35f3",
+      "excluded_noncomputational_files": [
+        "results/continuation_v05/summary/report_content.json",
+        "results/expanded_pilot/summary/coverage_by_case.png",
+        "results/expanded_pilot/summary/coverage_by_case.svg",
+        "results/expanded_pilot/summary/interval_widths.png",
+        "results/expanded_pilot/summary/interval_widths.svg",
+        "results/repaired_pilot/summary/linked_interval_widths.png",
+        "results/repaired_pilot/summary/linked_interval_widths.svg",
+        "results/repaired_pilot/summary/parameter_retention.png",
+        "results/repaired_pilot/summary/parameter_retention.svg",
+        "results/repaired_pilot/summary/report_content.json"
+      ]
+    }
+  ]
+}

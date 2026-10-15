@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "summary_utc": "2026-10-13T18:19:45.176460+00:00",
+  "primary_intervals": 131072,
+  "evaluation_markets": 16384,
+  "reference_markets": 262144,
+  "audit_markets": 18432,
+  "missing_audit_endpoints": 0,
+  "max_clearing": 2.0406787371030077e-10,
+  "max_cash": 2.2486645878672107e-10,
+  "max_kkt": 9.992007221626409e-16,
+  "multiple_root_periods": 0,
+  "max_primary_endpoint_ratio": 1.000000098760778,
+  "primary_optimizer_calls": 12256421,
+  "primary_optimizer_non_success": 29891,
+  "search_checks": 4614,
+  "search_tolerance_exceedances": 0,
+  "empty_intervals_recovered_by_checks": 0,
+  "endpoint_point_allowance_failures": 0,
+  "endpoint_full_ci99_allowance_failures": 0,
+  "bootstrap": {
+    "resamples": 2000,
+    "unit": "parameter setting",
+    "stratified": true,
+    "seed": 330050000000,
+    "same_indices_for_all_contrasts": true,
+    "boundary_caveat": "A degenerate bootstrap interval at zero or one reflects no observed setting variation; it does not prove a boundary probability."
+  },
+  "units": "Response and interval widths: percentage points. Rates: fractions. Relative width reduction: percent.",
+  "inference_scope": "Average performance and paired information differences under the declared design allocations; face/corner stress samples separate; not uniform pointwise coverage.",
+  "source_freeze_verified": true
+}
