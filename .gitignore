@@ -1,0 +1,16 @@
+# Downloaded Release assets and generated workspaces
+/assets/
+/work/
+*.zip
+*.download
+
+# Local environments and compiled/cache files
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.dll
+.DS_Store
+Thumbs.db
