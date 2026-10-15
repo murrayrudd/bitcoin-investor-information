@@ -1,0 +1,8 @@
+# Keep frozen source bytes unchanged across Windows and Linux checkouts.
+* text=auto eol=lf
+engine/** -text
+reference/** -text
+provenance/** -text
+*.png binary
+*.pdf binary
+*.zip binary
